@@ -1,8 +1,8 @@
 {
-    "name": "angular2-app",
+    "name": "angular2-shop",
     "version": "1.0.0",
     "author": "Jeremy Smith",
-    "description": "Package for an Angular 2 application.",
+    "description": "Shop interface made with Angular 2",
     "scripts": {
         "start": "concurrent \"npm run tsc:w\" \"npm run lite\" ",
         "tsc": "tsc",
