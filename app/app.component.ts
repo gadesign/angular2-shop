@@ -37,5 +37,5 @@ import { ProductDetailComponent } from './products/product-detail.component';
    { path: '/product/:id', name: 'ProductDetail', component: ProductDetailComponent}, 
 ])
 export class AppComponent {
-    pageTitle: string = 'Good Answer Design';
+    pageTitle: string = 'Jeremy Interactive';
 }

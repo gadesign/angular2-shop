@@ -1,8 +1,8 @@
 {
-    "name": "product-management",
+    "name": "angular2-app",
     "version": "1.0.0",
-    "author": "Deborah Kurata",
-    "description": "Package for the Acme Product Management sample application",
+    "author": "Jeremy Smith",
+    "description": "Package for an Angular 2 application.",
     "scripts": {
         "start": "concurrent \"npm run tsc:w\" \"npm run lite\" ",
         "tsc": "tsc",
